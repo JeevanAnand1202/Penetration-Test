@@ -1,5 +1,4 @@
 git add .
 git commit -m "Initial commit: full project structure with report, exploits, and enumeration data"
-git remote add origin https://github.com/YOUR_USERNAME/CSP-Penetration-Test.git
 git branch -M main
 git push -u origin main
